@@ -1,3 +1,4 @@
+// Pesquisar utilidades para heredocs
 Instalação do php:
 
 php-cli php-mbstring php-curl php-bcmath php-gd
